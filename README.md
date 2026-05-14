@@ -55,4 +55,5 @@ Estrutura de arquivos na ISO:
 ├── boot/grub/grub.cfg
 ├── boot\grub\x86_64-efi\grub.cfg
 ├── EFI/debian/grub.cfg
-└── isolinux/isolinux.cfg
+├── isolinux/isolinux.cfg
+└── isolinux/isolinux.bin
